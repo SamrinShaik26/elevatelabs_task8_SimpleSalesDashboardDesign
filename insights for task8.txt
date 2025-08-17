@@ -1,0 +1,6 @@
+Insights – Task 8 Dashboard
+
+1. West region achieved the highest total sales, followed by East.
+2. Technology category contributed the largest share (≈39%) of overall sales, while Furniture had the smallest share.
+3. Sales trend shows noticeable peaks around May, July, and November, while dips occur in early months like January and February.
+4. The business maintains an overall Profit Margin of ~24%, with ₹1.83M sales generating ₹442.53K profit.
